@@ -1,3 +1,4 @@
 
-- this i a read me file <br>this helps the user to know about thr project
+- this i a read me file <br>this helps the user to know about the project
 - hihii my name is varun
+  -merge conflict-1
